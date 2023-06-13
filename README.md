@@ -1,4 +1,4 @@
-# KMPG_-SPROCKET-CENTRAL
+# KPMG_-SPROCKET-CENTRAL
 ## BACKGROUND INFORMATION OF THE TASK
 
 **Sprocket Central Pty Ltd** is a medium size bikes & cycling accessories organisation, and has approached KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
