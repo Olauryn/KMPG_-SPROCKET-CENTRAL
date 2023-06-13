@@ -5,7 +5,7 @@
 
 Sprocket Central Pty Ltd wants the team to effectively analyse it's datasets to help them grow its business.
 
-Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
+Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
 However, in order to support the analysis, it was advised that **“the importance of optimising the quality of a customer's datasets cannot be underestimated. The better the quality of the dataset, the better chance one will be able to use it drive company growth.”**
 
