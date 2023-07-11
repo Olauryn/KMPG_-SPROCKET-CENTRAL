@@ -22,6 +22,8 @@ Transactions data in the past 3 months
 
 following the advise, **preliminary data exploration was done and ways to improve the quality of Sprocket Central Pty Ltd’s data was identfied.**
 
+In order to achieve the goal the goals of the analysis, I carried out three processes to achieve this; **Data Exploration, Model Development and Results Interpretation**
+
 ## DATA EXPLORATION
 
 Sprocket Central Pty Ltd has asked the team to assess the quality of their data; as well as make recommendations on ways to clean the underlying data for better analytical proccess and mitigate current data quality concerns going forward.
@@ -132,8 +134,17 @@ The new customer demographic table contains 1000 rows and 23 columns.
 
 **Property_valuation**:  This column contains 12 distinct values with no null values. 
 
+## MODEL DEVELOPMENT 
+The following steps were what I used in carrying out the model development; 
 
-## DATA VISUALIZATION
+**Developed a predictive model** by building a machine learning model to predict customer behavior and identify potential high-value customers.
+
+**Performed feature engineering** by transforming and creating new features to improve model performance.
+
+**Model selection and training** by choosing an appropriate algorithm and train the model using the labeled dataset.
+
+
+## RESULT INTERPRETATION (DATA VISUALIZATION)
 
 <img width="829" alt="Screenshot 2023-07-11 102129" src="https://github.com/Olauryn/KPMG_-SPROCKET-CENTRAL/assets/118401566/8626d56b-aafd-4495-80d7-dfa71b15feb7">
 
