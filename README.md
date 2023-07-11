@@ -151,6 +151,18 @@ The following steps were what I used in carrying out the model development;
 
 <img width="829" alt="Screenshot 2023-07-11 102129" src="https://github.com/Olauryn/KPMG_-SPROCKET-CENTRAL/assets/118401566/8626d56b-aafd-4495-80d7-dfa71b15feb7">
 
+My findings answers the following questions;
+
+What are the trends in the underlying data?
+
+Which customer segment has the highest customer value?
+
+What I propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+
+What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
+And specifically who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
+
 
 
 
