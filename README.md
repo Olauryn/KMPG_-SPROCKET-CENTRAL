@@ -24,6 +24,9 @@ following the advise, **preliminary data exploration was done and ways to improv
 
 In order to achieve the goal the goals of the analysis, I carried out three processes to achieve this; **Data Exploration, Model Development and Results Interpretation**
 
+### TOOLS USED FOR ANALYSIS
+Python, Microsoft Excel, Power BI
+
 ## DATA EXPLORATION
 
 Sprocket Central Pty Ltd has asked the team to assess the quality of their data; as well as make recommendations on ways to clean the underlying data for better analytical proccess and mitigate current data quality concerns going forward.
