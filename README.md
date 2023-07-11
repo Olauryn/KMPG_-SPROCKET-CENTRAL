@@ -1,4 +1,7 @@
 # KPMG_-SPROCKET-CENTRAL
+
+<img width="372" alt="Screenshot 2023-07-11 102725" src="https://github.com/Olauryn/KPMG_-SPROCKET-CENTRAL/assets/118401566/ad3efd16-687f-447f-b1f5-9858fb3c9efc">
+
 ## BACKGROUND INFORMATION OF THE TASK
 
 **Sprocket Central Pty Ltd** is a medium size bikes & cycling accessories organisation, and has approached KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
