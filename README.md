@@ -130,6 +130,11 @@ The new customer demographic table contains 1000 rows and 23 columns.
 **Property_valuation**:  This column contains 12 distinct values with no null values. 
 
 
+## DATA VISUALIZATION
+
+<img width="829" alt="Screenshot 2023-07-11 102129" src="https://github.com/Olauryn/KPMG_-SPROCKET-CENTRAL/assets/118401566/8626d56b-aafd-4495-80d7-dfa71b15feb7">
+
+
 
 
 
